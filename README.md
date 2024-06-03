@@ -32,11 +32,11 @@ Back Card Image:
 
 2. Run the main script:
 
-   ````bash
+   ```bash
     python main.py
-    ```
+   ```
+   
    **Usage:**
-   ````
 
 -  Ensure you have a CSV file named french_words.csv in the project directory. The CSV file should have two columns:
 
