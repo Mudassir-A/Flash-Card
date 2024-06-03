@@ -1,4 +1,4 @@
-## Flashcard French to English Trainer
+## Flash Card - French to English Trainer
 
 This Python project helps you learn French vocabulary with a user-friendly flashcard application built using Tkinter. It displays a French word on the front side and automatically flips to its English translation after a few seconds.
 
@@ -12,7 +12,7 @@ This Python project helps you learn French vocabulary with a user-friendly flash
 
 **Screenshots:**
 
-Front Card Image: 
+Front Card Image:
 ![Front Image](./images/screenshots/front.png)
 
 Back Card Image:
@@ -53,13 +53,16 @@ Back Card Image:
 **Code snippet**
 
 ```
-bonjour,hello
-merci,thank you
-s'il vous plaît,please
-au revoir,goodbye
-comment allez-vous?,how are you?
-Use code with caution.
-content_copy
+French,English
+partie,part
+histoire,history
+chercher,search
+seulement,only
+police,police
+pensais,thought
+aide,help
+demande,request
+genre,kind
 ```
 
 **Additional Notes:**
